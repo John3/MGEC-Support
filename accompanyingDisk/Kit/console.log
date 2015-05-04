@@ -1,0 +1,634 @@
+//-------------------------- 3/3/2008 -- 13:05:03 -----
+Processor Init:
+   Intel Pentium 4, ~3.40 Ghz
+     (timed at roughly 3.38 Ghz)
+   FPU detected
+   MMX detected
+   SSE detected
+ 
+Math Init:
+   Installing Standard C extensions
+   Installing Assembly extensions
+   Installing FPU extensions
+   Installing MMX extensions
+   Installing SSE extensions
+ 
+Input Init:
+   keyboard0 input device created.
+   mouse0 input device created.
+   DirectInput enabled.
+
+Initializing chunk mappings...
+   o 'TEXT' maps to TextChunk
+   o 'SCHK' maps to UnknownChunk
+   o 'SCHK' maps to SimChunk
+Binding server port to default IP
+Debugger connection from 127.0.0.1
+Loading compiled script gpgt/main.cs.
+Loading compiled script common/main.cs.
+Loading compiled script gpgt/client/defaults.cs.
+Loading compiled script gpgt/server/defaults.cs.
+Loading compiled script gpgt/client/prefs.cs.
+Loading compiled script gpgt/server/prefs.cs.
+Loading compiled script creator/main.cs.
+Loading compiled script common/main.cs.
+
+--------- Parsing Arguments ---------
+
+--------- Initializing MOD: Common ---------
+Loading compiled script common/client/canvas.cs.
+Loading compiled script common/client/audio.cs.
+
+--------- Initializing MOD: FPS Starter Kit ---------
+Loading compiled script gpgt/HOWUtils/init.cs.
+Loading compiled script gpgt/HOWUtils/common/ArrayObject.cs.
+
+--------- Loading Array Object Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/AutoLoadManager.cs.
+Loading compiled script gpgt/HOWUtils/common/Fields.cs.
+
+--------- Loading Field Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/File.cs.
+
+--------- Loading File Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/GUI.cs.
+
+--------- Loading Miscellaneous Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/Math.cs.
+
+--------- Loading Math Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/Objects.cs.
+Loading compiled script gpgt/HOWUtils/common/Records.cs.
+
+--------- Loading Record Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/SimSet.cs.
+
+--------- Loading SimSet Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/Words.cs.
+
+--------- Loading Word Utilities ---------
+Loading compiled script gpgt/HOWUtils/common/EventRouter/EventBind.cs.
+Loading compiled script gpgt/HOWUtils/common/EventRouter/EventRouter.cs.
+Loading compiled script gpgt/HOWUtils/TGB/accessMethodGenerators.cs.
+Loading compiled script gpgt/HOWUtils/TGB/ImageMaps.cs.
+
+--------- Loading Image Map Utilities ---------
+Loading compiled script gpgt/HOWUtils/TGB/t2dSceneObject.cs.
+
+--------- Loading t2dSceneObject Utilities ---------
+Loading compiled script gpgt/HOWUtils/TGB/WorldLimit.cs.
+
+--------- Loading World Limit Utilities ---------
+Loading compiled script gpgt/HOWUtils/TGE/GameBase.cs.
+
+--------- Loading GameBase Utilities ---------
+Loading compiled script gpgt/HOWUtils/TGE/Networking.cs.
+
+--------- Loading Networking Utilities ---------
+Loading compiled script gpgt/HOWUtils/TGE/SceneObject.cs.
+
+--------- Loading SceneObject Utilities ---------
+Loading compiled script gpgt/client/init.cs.
+Loading compiled script gpgt/server/init.cs.
+Loading compiled script gpgt/data/init.cs.
+Missing file: gpgt/data/terrains/grassland/propertyMap.cs!
+Loading compiled script gpgt/data/interiors/propertyMap.cs.
+
+--------- Initializing MOD: FPS Starter Kit: Server ---------
+Loading compiled script common/server/audio.cs.
+Loading compiled script common/server/server.cs.
+Loading compiled script common/server/message.cs.
+Loading compiled script common/server/commands.cs.
+Loading compiled script common/server/missionInfo.cs.
+Loading compiled script common/server/missionLoad.cs.
+Loading compiled script common/server/missionDownload.cs.
+Loading compiled script common/server/clientConnection.cs.
+Loading compiled script common/server/kickban.cs.
+Loading compiled script common/server/game.cs.
+Loading compiled script gpgt/server/scripts/commands.cs.
+Loading compiled script gpgt/server/scripts/centerPrint.cs.
+Loading compiled script gpgt/server/scripts/game.cs.
+
+--------- Initializing MOD: FPS Starter Kit: Client ---------
+Loading compiled script gpgt/client/ui/customProfiles.cs.
+Loading compiled script common/client/message.cs.
+Loading compiled script common/client/mission.cs.
+Loading compiled script common/client/missionDownload.cs.
+Loading compiled script common/client/actionMap.cs.
+Video Init:
+   Accelerated OpenGL display device detected.
+   Accelerated D3D device detected.
+   Voodoo 2 display device not detected.
+
+Activating the OpenGL display device...
+Activating the OpenGL display device...
+Setting screen mode to 800x600x32 (w)...
+Creating a new window...
+Acquiring a new device context...
+Pixel format set:
+  32 color bits, 24 depth bits, 8 stencil bits
+Creating a new rendering context...
+Making the new rendering context current...
+OpenGL driver information:
+  Vendor: NVIDIA Corporation
+  Renderer: GeForce 7800 GTX/PCI/SSE2
+  Version: 2.1.2
+OpenGL Init: Enabled Extensions
+  ARB_multitexture (Max Texture Units: 4)
+  EXT_blend_color
+  EXT_blend_minmax
+  EXT_compiled_vertex_array
+  NV_vertex_array_range
+  EXT_texture_env_combine
+  EXT_packed_pixels
+  EXT_fog_coord
+  ARB_texture_compression
+  EXT_texture_compression_s3tc
+  (ARB|EXT)_texture_env_add
+  EXT_texture_filter_anisotropic (Max anisotropy: 16)
+  WGL_EXT_swap_control
+OpenGL Init: Disabled Extensions
+  EXT_paletted_texture
+  3DFX_texture_compression_FXT1
+
+Loading compiled script common/ui/defaultProfiles.cs.
+Loading compiled script common/ui/ConsoleDlg.gui.
+Loading compiled script common/ui/LoadFileDlg.gui.
+Loading compiled script common/ui/ColorPickerDlg.gui.
+Loading compiled script common/ui/SaveFileDlg.gui.
+Loading compiled script common/ui/MessageBoxOkDlg.gui.
+Loading compiled script common/ui/MessageBoxYesNoDlg.gui.
+Loading compiled script common/ui/MessageBoxOKCancelDlg.gui.
+Loading compiled script common/ui/MessagePopupDlg.gui.
+Loading compiled script common/ui/HelpDlg.gui.
+Loading compiled script common/ui/RecordingsDlg.gui.
+Loading compiled script common/ui/NetGraphGui.gui.
+Loading compiled script common/client/metrics.cs.
+Loading compiled script common/ui/FrameOverlayGui.gui.
+Loading compiled script common/client/messageBox.cs.
+Loading compiled script common/client/screenshot.cs.
+Loading compiled script common/client/cursor.cs.
+Loading compiled script common/client/help.cs.
+Loading compiled script common/client/recordings.cs.
+
+OpenAL Driver Init:
+OpenAL
+   Vendor: Creative Labs Inc.
+   Version: OpenAL version 1.1
+   Renderer: SB Audigy 2 ZS Audio [CCC0]
+   Extensions: EAX
+EAX1.0
+EAX2.0
+EAX3.0
+EAX4.0
+
+
+Loading compiled script gpgt/client/scripts/audioProfiles.cs.
+Loading compiled script gpgt/client/ui/defaultGameProfiles.cs.
+Loading compiled script gpgt/client/ui/PlayGui.gui.
+Loading compiled script gpgt/client/ui/ChatHud.gui.
+Loading compiled script gpgt/client/ui/playerList.gui.
+Loading compiled script gpgt/client/ui/mainMenuGui.gui.
+Loading compiled script gpgt/client/ui/aboutDlg.gui.
+Loading compiled script gpgt/client/ui/startMissionGui.gui.
+Loading compiled script gpgt/client/ui/joinServerGui.gui.
+Loading compiled script gpgt/client/ui/loadingGui.gui.
+Loading compiled script gpgt/client/ui/endGameGui.gui.
+Loading compiled script gpgt/client/ui/optionsDlg.gui.
+Loading compiled script gpgt/client/ui/remapDlg.gui.
+Loading compiled script gpgt/client/ui/StartupGui.gui.
+Loading compiled script gpgt/client/scripts/client.cs.
+Loading compiled script gpgt/client/scripts/game.cs.
+Loading compiled script gpgt/client/scripts/missionDownload.cs.
+Loading compiled script gpgt/client/scripts/serverConnection.cs.
+Loading compiled script gpgt/client/scripts/playerList.cs.
+Loading compiled script gpgt/client/scripts/loadingGui.cs.
+Loading compiled script gpgt/client/scripts/optionsDlg.cs.
+Loading compiled script gpgt/client/scripts/chatHud.cs.
+Loading compiled script gpgt/client/scripts/messageHud.cs.
+Loading compiled script gpgt/client/scripts/playGui.cs.
+Loading compiled script gpgt/client/scripts/centerPrint.cs.
+Loading compiled script gpgt/client/scripts/default.bind.cs.
+Loading compiled script gpgt/client/config.cs.
+Binding server port to default IP
+UDP initialized on port 0
+
+--------- Initializing: Torque Creator ---------
+Loading compiled script creator/editor/editor.cs.
+Loading compiled script creator/editor/particleEditor.cs.
+Loading compiled script creator/scripts/scriptDoc.cs.
+Loading compiled script creator/ui/creatorProfiles.cs.
+Loading compiled script creator/ui/InspectDlg.gui.
+Loading compiled script creator/ui/GuiEditorGui.gui.
+Loading compiled script creator/ui/lightEditor.gui.
+Loading compiled script creator/ui/lightEditorNewDB.gui.
+Engine initialized...
+*** Load Main Menu
+   keyboard0 input device created.
+   mouse0 input device created.
+   keyboard0 input device created.
+   mouse0 input device created.
+Exporting server prefs...
+Loading compiled script gpgt/server/scripts/audioProfiles.cs.
+Loading compiled script gpgt/server/scripts/envAudioProfiles.cs.
+Loading compiled script gpgt/server/scripts/camera.cs.
+Loading compiled script gpgt/server/scripts/markers.cs.
+Loading compiled script gpgt/server/scripts/triggers.cs.
+Loading compiled script gpgt/server/scripts/inventory.cs.
+Loading compiled script gpgt/server/scripts/shapeBase.cs.
+Loading compiled script gpgt/server/scripts/item.cs.
+Loading compiled script gpgt/server/scripts/environment.cs.
+Loading compiled script gpgt/server/scripts/health.cs.
+Loading compiled script gpgt/server/scripts/staticShape.cs.
+Loading compiled script gpgt/server/scripts/weapon.cs.
+Loading compiled script gpgt/server/scripts/radiusDamage.cs.
+Loading compiled script gpgt/server/scripts/crossbow.cs.
+ParticleEmitterData(CrossbowBoltEmitter) velocityVariance > ejectionVelocity
+Error: shape gpgt/data/shapes/crossbow/ammo.dts-collision detail 0 (Collision-3) bounds box invalid!
+Loading compiled script gpgt/server/scripts/environment.cs.
+Loading compiled script gpgt/server/scripts/car.cs.
+Loading compiled script common/server/lightingSystem.cs.
+
+//-----------------------------------------------
+
+Loading light datablocks from: common/lighting/lights/*.dso
+Loading compiled script common/lighting/lights/sgTowerFireLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleTorchStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleSmallWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotSwingStaticDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpot2DataBlock.cs.
+Loading compiled script common/lighting/lights/sgRedLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgMountLight.cs.
+Loading compiled script common/lighting/lights/sgLanternPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgGooDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDynamicFireDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDefaultLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgBlueLightDataBlock.cs.
+Loading compiled script common/lighting/lights/CottageLight.cs.
+
+Loading light datablocks from: common/lighting/lights/*.cs
+Loading compiled script common/lighting/lights/sgTowerFireLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleTorchStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleSmallWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotSwingStaticDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpot2DataBlock.cs.
+Loading compiled script common/lighting/lights/sgRedLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgMountLight.cs.
+Loading compiled script common/lighting/lights/sgLanternPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgGooDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDynamicFireDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDefaultLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgBlueLightDataBlock.cs.
+Loading compiled script common/lighting/lights/CottageLight.cs.
+Loading complete.
+//-----------------------------------------------
+
+
+//-----------------------------------------------
+
+Loading light datablocks from: common/lighting/filters/*.dso
+Loading compiled script common/lighting/filters/test.cs.
+
+Loading light datablocks from: common/lighting/filters/*.cs
+Loading compiled script common/lighting/filters/test.cs.
+Loading complete.
+//-----------------------------------------------
+
+Loading compiled script gpgt/server/scripts/player.cs.
+Loading compiled script gpgt/data/shapes/player/player.cs.
+Validation required for shape: gpgt/data/shapes/player/player.dts
+Loading compiled script gpgt/server/scripts/chimneyfire.cs.
+Loading compiled script gpgt/server/scripts/sgExamples.cs.
+ParticleEmitterData(RealFireBigEmitter) thetaMax > 180.0
+
+/***************************
+Loading compiled script gpgt/server/scripts/gpgt/init.cs.
+Loading compiled script gpgt/server/scripts/gpgt/exerciseStarter.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/Markers/FlashingMarker.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/BlueGuy/player.cs.
+Loading compiled script gpgt/data/gpgt/BlueGuy/player.cs.
+Validation required for shape: gpgt/data/gpgt/BlueGuy/player.dts
+Loading compiled script gpgt/server/scripts/gpgt/common/AI/PathUtils.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/AI/AIPlayer.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/AI/AIWheeledVehicle.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/Blocks/blocks.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/Eggs/eggs.cs.
+Loading chapter1 datablocks and scripts...
+Loading compiled script gpgt/server/scripts/gpgt/chapter1/loader.cs.
+Loading compiled script gpgt/server/scripts/gpgt/chapter1/exercise001.cs.
+*** LOADING MISSION: gpgt/data/missions/chapter1/exercise001.mis
+*** Stage 1 load
+*** Stage 2 load
+Executing gpgt/data/missions/chapter1/exercise001.mis.
+exerciseStarter::onAdd() => exercise001 001
+*** Mission loaded
+Connect request from: IPX:CFCFCFCF:CFCFCFCFCFCF:53199
+Connection established 1576
+CADD: 1577 local
+*** Sending mission load to client: gpgt/data/missions/chapter1/exercise001.mis
+Mapping string: ServerMessage to index: 0
+Mapping string: MsgConnectionError to index: 1
+Mapping string: MsgLoadInfo to index: 2
+Mapping string: MsgLoadDescripition to index: 3
+Mapping string: MsgLoadInfoDone to index: 4
+Mapping string: MsgClientJoin to index: 5
+Mapping string: Welcome to the Torque demo app %1. to index: 6
+Mapping string: New Guy to index: 7
+Mapping string: MissionStartPhase1 to index: 8
+*** New Mission: gpgt/data/missions/chapter1/exercise001.mis
+*** Phase 1: Download Datablocks & Targets
+Mapping string: MissionStartPhase1Ack to index: 0
+Error: shape gpgt/data/shapes/crossbow/ammo.dts-collision detail 1 (Collision-3) bounds box invalid!
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Could not locate texture: gpgt/data/shapes/player/crossbow
+Could not locate texture: gpgt/data/shapes/player/clip
+Validation required for shape: gpgt/data/shapes/player/player.dts
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Validation required for shape: gpgt/data/gpgt/BlueGuy/player.dts
+Mapping string: MissionStartPhase2 to index: 9
+*** Phase 2: Download Ghost Objects
+Mapping string: MissionStartPhase2Ack to index: 1
+Could not locate texture: gpgt/data/terrains/grassland/sand
+Could not locate texture: gpgt/data/terrains/grassland/sand
+Ghost Always objects received.
+Mapping string: MissionStartPhase3 to index: 10
+Client Replication Startup has Happened!
+fxFoliageReplicator - Client Foliage Replication Startup is complete.
+*** Phase 3: Mission Lighting
+Lighting mission....
+
+//-----------------------------------------------
+Synapse Gaming Lighting Pack
+
+Starting scene lighting...
+  Starting TGE based scene lighting...
+    Lighting with light #1 (TGE vector light)...
+      Lighting object 1 of 1...
+      Object lighting complete (2.859 seconds)
+  TGE based scene lighting complete (3.047 seconds)
+  Starting Synapse Gaming Lighting Pack scene lighting...
+    Lighting object 1 of 1...
+    Object lighting complete (0.031 seconds)
+  Synapse Gaming Lighting Pack scene lighting complete (3.265 seconds)
+
+  Lighting Pack lighting system stats:
+    Interior Lexel Count:                        0
+    Interior Lexel Illumination Count:           0
+    Interior Lexel Illumination Time (ms):       0.000000
+    Interior Lexel Illumination Time Total (ms): 0
+    Interior Lexel Diffuse Count:                0
+    Interior Object Count:                       1
+    Interior Object Included Count:              0
+    Interior Object Illumination Count:          0
+    Interior Surface Included Count:             0
+    Interior Surface Illumination Count:         0
+    Interior Surface Illuminated Count:          0
+    Interior Surface Smoothed Count:             0
+    Interior Surface Smoothed Lexel Count:       0
+    Interior Surface Setup Count:                0
+    Interior Surface Setup Time Total (ms):      0
+    Interior Surface Merge Count:                0
+    Interior Surface Merge Time Total (ms):      0
+    Static Mesh BVPT Potential Occluder Count:   0
+    Static Mesh Cast Ray Mesh Count:             0
+    Static Mesh Surface Occluder Count:          0
+    Terrain Lexel Count:                         0
+    Terrain Lexel Time (ms):                     0.000000
+    Terrain Lexel Time Total (ms):               0
+Successfully saved mission lighting file: 'gpgt/data/missions/chapter1/exercise001_1da3267f.ml'
+Total light map memory: 0.000M
+Scene lighting complete (3.547 seconds)
+//-----------------------------------------------
+
+Mission lighting done
+Mapping string: MissionStartPhase3Ack to index: 2
+Mapping string: MissionStart to index: 11
+Mapping string: SyncClock to index: 12
+Could not locate texture: gpgt/data/shapes/player/crossbow
+Could not locate texture: gpgt/data/shapes/player/clip
+*** Initial Control Object
+   keyboard0 input device created.
+   mouse0 input device created.
+*** ENDING MISSION
+ ====> CONNECT /common/server/clientConnection.cs ->: GameConnection::onDrop( 1577 ,  )
+CDROP: 1577 IPX:CFCFCFCF:CFCFCFCFCFCF:53199
+Exporting server prefs...
+   keyboard0 input device created.
+   mouse0 input device created.
+Exporting server prefs...
+Loading compiled script gpgt/server/scripts/audioProfiles.cs.
+Loading compiled script gpgt/server/scripts/envAudioProfiles.cs.
+Loading compiled script gpgt/server/scripts/camera.cs.
+Loading compiled script gpgt/server/scripts/markers.cs.
+Loading compiled script gpgt/server/scripts/triggers.cs.
+Loading compiled script gpgt/server/scripts/inventory.cs.
+Loading compiled script gpgt/server/scripts/shapeBase.cs.
+Loading compiled script gpgt/server/scripts/item.cs.
+Loading compiled script gpgt/server/scripts/environment.cs.
+Loading compiled script gpgt/server/scripts/health.cs.
+Loading compiled script gpgt/server/scripts/staticShape.cs.
+Loading compiled script gpgt/server/scripts/weapon.cs.
+Loading compiled script gpgt/server/scripts/radiusDamage.cs.
+Loading compiled script gpgt/server/scripts/crossbow.cs.
+ParticleEmitterData(CrossbowBoltEmitter) velocityVariance > ejectionVelocity
+Error: shape gpgt/data/shapes/crossbow/ammo.dts-collision detail 0 (Collision-3) bounds box invalid!
+Loading compiled script gpgt/server/scripts/environment.cs.
+Loading compiled script gpgt/server/scripts/car.cs.
+Loading compiled script common/server/lightingSystem.cs.
+
+//-----------------------------------------------
+
+Loading light datablocks from: common/lighting/lights/*.dso
+Loading compiled script common/lighting/lights/sgTowerFireLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleTorchStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleSmallWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotSwingStaticDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpot2DataBlock.cs.
+Loading compiled script common/lighting/lights/sgRedLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgMountLight.cs.
+Loading compiled script common/lighting/lights/sgLanternPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgGooDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDynamicFireDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDefaultLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgBlueLightDataBlock.cs.
+Loading compiled script common/lighting/lights/CottageLight.cs.
+
+Loading light datablocks from: common/lighting/lights/*.cs
+Loading compiled script common/lighting/lights/sgTowerFireLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleTorchStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgTempleSmallWindowStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotSwingStaticDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpotDataBlock.cs.
+Loading compiled script common/lighting/lights/sgSpot2DataBlock.cs.
+Loading compiled script common/lighting/lights/sgRedLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgMountLight.cs.
+Loading compiled script common/lighting/lights/sgLanternPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgGooDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitStaticPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgFirePitPSDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDynamicFireDataBlock.cs.
+Loading compiled script common/lighting/lights/sgDefaultLightDataBlock.cs.
+Loading compiled script common/lighting/lights/sgBlueLightDataBlock.cs.
+Loading compiled script common/lighting/lights/CottageLight.cs.
+Loading complete.
+//-----------------------------------------------
+
+
+//-----------------------------------------------
+
+Loading light datablocks from: common/lighting/filters/*.dso
+Loading compiled script common/lighting/filters/test.cs.
+
+Loading light datablocks from: common/lighting/filters/*.cs
+Loading compiled script common/lighting/filters/test.cs.
+Loading complete.
+//-----------------------------------------------
+
+Loading compiled script gpgt/server/scripts/player.cs.
+Loading compiled script gpgt/data/shapes/player/player.cs.
+Validation required for shape: gpgt/data/shapes/player/player.dts
+Loading compiled script gpgt/server/scripts/chimneyfire.cs.
+Loading compiled script gpgt/server/scripts/sgExamples.cs.
+Warning, overwriting material properties for: Wall_filler101m
+ParticleEmitterData(RealFireBigEmitter) thetaMax > 180.0
+
+/***************************
+Loading compiled script gpgt/server/scripts/gpgt/init.cs.
+Loading compiled script gpgt/server/scripts/gpgt/exerciseStarter.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/Markers/FlashingMarker.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/BlueGuy/player.cs.
+Loading compiled script gpgt/data/gpgt/BlueGuy/player.cs.
+Validation required for shape: gpgt/data/gpgt/BlueGuy/player.dts
+Loading compiled script gpgt/server/scripts/gpgt/common/AI/PathUtils.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/AI/AIPlayer.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/AI/AIWheeledVehicle.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/Blocks/blocks.cs.
+Loading compiled script gpgt/server/scripts/gpgt/common/Eggs/eggs.cs.
+Loading chapter1 datablocks and scripts...
+Loading compiled script gpgt/server/scripts/gpgt/chapter1/loader.cs.
+Compiling gpgt/server/scripts/gpgt/chapter1/exercise001_f.cs...
+Loading compiled script gpgt/server/scripts/gpgt/chapter1/exercise001_f.cs.
+*** LOADING MISSION: gpgt/data/missions/chapter1/exercise001.mis
+*** Stage 1 load
+*** Stage 2 load
+Executing gpgt/data/missions/chapter1/exercise001.mis.
+exerciseStarter::onAdd() => exercise001 001
+*** Mission loaded
+Connect request from: IPX:CFCFCFCF:CFCFCFCFCFCF:53199
+Connection established 1691
+CADD: 1692 local
+*** Sending mission load to client: gpgt/data/missions/chapter1/exercise001.mis
+Mapping string: ServerMessage to index: 0
+Mapping string: MsgConnectionError to index: 1
+Mapping string: MsgLoadInfo to index: 2
+Mapping string: MsgLoadDescripition to index: 3
+Mapping string: MsgLoadInfoDone to index: 4
+Mapping string: MsgClientJoin to index: 5
+Mapping string: Welcome to the Torque demo app %1. to index: 6
+Mapping string: New Guy to index: 7
+Mapping string: MissionStartPhase1 to index: 8
+*** New Mission: gpgt/data/missions/chapter1/exercise001.mis
+*** Phase 1: Download Datablocks & Targets
+Mapping string: MissionStartPhase1Ack to index: 0
+Error: shape gpgt/data/shapes/crossbow/ammo.dts-collision detail 1 (Collision-3) bounds box invalid!
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Could not locate texture: gpgt/data/shapes/player/crossbow
+Could not locate texture: gpgt/data/shapes/player/clip
+Validation required for shape: gpgt/data/shapes/player/player.dts
+AIPlayer::spawn( BlueGuy , 375 332 224 0 0 -1 1.06 )
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Could not locate texture: gpgt/data/shapes/player/base.lmale
+Validation required for shape: gpgt/data/gpgt/BlueGuy/player.dts
+Mapping string: MissionStartPhase2 to index: 9
+*** Phase 2: Download Ghost Objects
+Mapping string: MissionStartPhase2Ack to index: 1
+Could not locate texture: gpgt/data/terrains/grassland/sand
+Could not locate texture: gpgt/data/terrains/grassland/sand
+Ghost Always objects received.
+Mapping string: MissionStartPhase3 to index: 10
+Client Replication Startup has Happened!
+fxFoliageReplicator - Client Foliage Replication Startup is complete.
+*** Phase 3: Mission Lighting
+Lighting mission....
+
+//-----------------------------------------------
+Synapse Gaming Lighting Pack
+
+Starting scene lighting...
+  Starting TGE based scene lighting...
+    Lighting with light #1 (TGE vector light)...
+      Lighting object 1 of 1...
+      Object lighting complete (2.719 seconds)
+  TGE based scene lighting complete (2.906 seconds)
+  Starting Synapse Gaming Lighting Pack scene lighting...
+    Lighting object 1 of 1...
+    Object lighting complete (0.015 seconds)
+  Synapse Gaming Lighting Pack scene lighting complete (3.109 seconds)
+
+  Lighting Pack lighting system stats:
+    Interior Lexel Count:                        0
+    Interior Lexel Illumination Count:           0
+    Interior Lexel Illumination Time (ms):       0.000000
+    Interior Lexel Illumination Time Total (ms): 0
+    Interior Lexel Diffuse Count:                0
+    Interior Object Count:                       1
+    Interior Object Included Count:              0
+    Interior Object Illumination Count:          0
+    Interior Surface Included Count:             0
+    Interior Surface Illumination Count:         0
+    Interior Surface Illuminated Count:          0
+    Interior Surface Smoothed Count:             0
+    Interior Surface Smoothed Lexel Count:       0
+    Interior Surface Setup Count:                0
+    Interior Surface Setup Time Total (ms):      0
+    Interior Surface Merge Count:                0
+    Interior Surface Merge Time Total (ms):      0
+    Static Mesh BVPT Potential Occluder Count:   0
+    Static Mesh Cast Ray Mesh Count:             0
+    Static Mesh Surface Occluder Count:          0
+    Terrain Lexel Count:                         0
+    Terrain Lexel Time (ms):                     0.000000
+    Terrain Lexel Time Total (ms):               0
+Successfully saved mission lighting file: 'gpgt/data/missions/chapter1/exercise001_94d7bd77.ml'
+Total light map memory: 0.000M
+Scene lighting complete (3.391 seconds)
+//-----------------------------------------------
+
+Mission lighting done
+Mapping string: MissionStartPhase3Ack to index: 2
+Mapping string: MissionStart to index: 11
+Mapping string: SyncClock to index: 12
+Could not locate texture: gpgt/data/shapes/player/crossbow
+Could not locate texture: gpgt/data/shapes/player/clip
+*** Initial Control Object
+   keyboard0 input device created.
+   mouse0 input device created.
+*** ENDING MISSION
+ ====> CONNECT /common/server/clientConnection.cs ->: GameConnection::onDrop( 1692 ,  )
+CDROP: 1692 IPX:CFCFCFCF:CFCFCFCFCFCF:53199
+Exporting server prefs...
+Exporting client prefs
+Exporting client config
+Exporting server prefs
+Exporting client prefs
+Exporting server prefs
+Shutting down the OpenGL display device...
+Making the GL rendering context not current...
+Deleting the GL rendering context...
+Releasing the device context...
